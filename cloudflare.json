@@ -1,0 +1,48 @@
+{
+    "category": "anti-censorship",
+    "config": {
+        "assets": {
+            "logos": {
+                "132px": "./public/images/logo-132.png",
+                "200px": "./public/images/logo-200.png"
+            },
+            "detail_page":
+            [
+                "./public/images/modal.png"
+            ]
+        },
+        "details": {
+            "Language": "English",
+            "Price": "Free",
+            "Restrictions": "None",
+            "Supporting": "<a href='https://www.resetthenet.org/'>www.resetthenet.org</a>",
+            "has_js": true
+        },
+        "interface": []
+    },
+    "contributors": [
+        {
+            "email": "thomasalwyndavis@gmail.com",
+            "name": "Thomas Davis"
+        },
+        {
+            "email": "dkoston@cloudflare.com",
+            "name": "Dave Koston"
+        },
+        {
+            "email": "ram@cloudflare.com",
+            "name": "Ramakrishna Nadella"
+        }
+    ],
+    "dependencies": {},
+    "description": "This app lets you automatically add the Reset The Net banner to your site on June 5th, 2014. Don't ask for your privacy. Take it back. On June 5th we will Reset the Net. Are you in?",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "main": "./public/javascripts/banner.js",
+    "name": "Reset The Net",
+    "version": "1.0.0"
+}
