@@ -1,68 +1,57 @@
-This app lets you automatically add The Day We Fight Back banner to your site on February 11th, 2014. The Day We Fight Back is an organization that has organized a protest against mass surveillance. The banner that your visitors would see urges them to reach out to members of the US Congress to oppose the [FISA Improvements Act](https://www.aclu.org/blog/national-security-technology-and-liberty/sen-dianne-feinsteins-nsa-reforms-bad-privacy-bad), support the [USA Freedom Act](https://www.aclu.org/blog/national-security/usa-freedom-act-real-spying-reform) or sign a petition if outside the US.
+An app for distributing privacy tools to your visitors on the one year anniversary of the first NSA revelations. 
 
-When web visitors see your banner, they can take 1 of 2 actions. They can call their US member of Congress or send an email, using a sample script provided by the Day We Fight Back. Visitors outside of the US can still participate - they can sign a petition organized by the country they select.
+This app lets you automatically add Reset The Net modal to your site on June 5, 2014. Reset the Net is a campaign demanding that web services take concrete steps to directly block governments' bulk collection of data, while encouraging the spread of free and open source privacy tools. The banner that your visitors would see encourages them to use [privacy tools and encryption](https://pack.resetthenet.org) to block government surveillance.
 
-Other organizations such as the Electronic Frontier Foundation (EFF), the American Civil Liberties Union (ACLU), Mozilla and others have joined this effort to express their concern that mass surveillance has on the freedom and openness of the internet. For more information, please visit [thedaywefightback.org](https://thedaywefightback.org). 
+When web visitors see your banner, they can sign the pledge to use privacy tools to secure their privacy and demand other web services and companies do the same. 
 
+Reset the Net was called for and organized by Fight for the Future, the digital rights group that launched the first protest against SOPA, and built many of the tools used on the Jan 18th SOPA blackout. Several other organizations such as ACLU, Demand Progress, Libertarian Party, Amnesty International, Greenpeace, Our America Initiative, Popular Resistance, Free Press, Open Technology Institute, RootsAction, and Free Software Foundation and others have joined the effort. The world's biggest Internet companies such as Google, reddit, Mozilla and others are also joining the effort to promote privacy and block intrusive surveillance. For more information about the campaign, go to [ResetTheNet.org](https://www.resetthenet.org/)
 
 ### How to add the banner to your site
 
-Adding this app will automatically add The Day We Fight Back banner to the bottom of your site on February 11th, 2014. To add this app to multiple domains, please add them individually.
+Adding this app will automatically add Reset The Net banner to the bottom of your site on June 5th, 2014. To add this app to multiple domains, please add them individually.
 
 You can see a screenshot of the banner on an example website below.
 
-Once you've added the banner to your site, don't forget to visit [thedaywefightback.org](https://thedaywefightback.org/) and let them know you're adding the banner.
+Once you've added the banner to your site, don't forget to visit [ResetTheNet.org](https://www.resetthenet.org/) and let them know you're adding the banner.
 
 
 ### F.A.Q.
 
 **When will the banner show up?**
 
-The banner will appear on February 11th, 2014 for all visitors of your website, based on your local time zone.
+The banner will appear on June 5th, 2014 for all visitors of your website, based on your local time zone.
 
 
-**Do I need to enable the banner on the 11th?**
+**Do I need to enable the banner on June 5th, 2014?**
 
-You can add the app to your site at any time and the banner will automatically appear on the 11th.  You don’t need to do anything to turn the banner on or off.
+You can add the app to your site at any time and the banner will automatically appear on the 5th.  You don’t need to do anything to turn the banner on or off.
 
 
 **What if I am outside the U.S.?**
 
-The main functionality of the banner urges your web visitors to call or email members of the US Congress. However, Clicking on the "Not in the USA" link in the bottom left hand corner of the banner allows a visitor to sign a worldwide petition of support.
+The main functionality of the banner urges your web visitors to adopt privacy tools and encryption to block government surveillance. Internet users around the world can use these tools to fight back intrusive surveillance.
 
 
 **Can I get this app on Github?**
 
-Yes, this app is open-sourced.  You can find the app on Github here: [https://github.com/dkoston/thedaywefightback](https://github.com/dkoston/thedaywefightback)
+Yes, this app is open-sourced.  You can find the app on Github here: [https://github.com/thomasdavis/resetthenet-cloudflare-app](https://github.com/thomasdavis/resetthenet-cloudflare-app)
 
 
 **Will you automatically un-install this app?**
 
-Yes, we will automatically un-install this app for you by the end of February 2014.
+Yes, we will automatically un-install this app for you by the end of June 2014.
 
 
-### Banner Screenshots
+### Modal/Popup Screenshots
 
-#### Main Banner
+#### Modal
 
-![Main Banner](/images/apps/the_day_we_fight_back/tdwfb-banner.png "Main Banner")
+![Modal](/images/apps/resetthenet-cloudflare-app/public/images/modal.png "Modal")
 
 This is the banner that will appear at the bottom of your website when you enable the app.
 
 #### Example on a website
 
-![On Website](/images/apps/the_day_we_fight_back/on-website.png "On a website")
+[Website example](https://www.thunderclap.it/#ALWAYS_SHOW_RTN_WIDGET)
 
 Here's an example of the banner appearing on a website.
-
-#### Call Tool Pop-up
-
-![Call Tool](/images/apps/the_day_we_fight_back/call-tool.png "Call Tool Pop-up")
-
-When someone clicks on "Connect My Call" from within the banner to call their member of Congress, their phone number will be called and then connected to their member of Congress (based on what zip code they put in).  This call script appears for sample talking points.
-
-#### Email Tool Pop-up
-
-![Email Tool](/images/apps/the_day_we_fight_back/email-tool.png "Email Tool Pop-up")
-
-When someone clicks on "Compose Email" from within the banner, this email template will appear.  Your web visitors can further customize it before sending.
