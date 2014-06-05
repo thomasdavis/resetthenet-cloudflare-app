@@ -1,4 +1,4 @@
-An app for distributing privacy tools to your visitors on the one year anniversary of the first NSA revelations. 
+This is an app for distributing privacy tools to your visitors on the one year anniversary of the Snowden leaks, as part of the Reset the Net campaign. For more information, visit [resetthenet.org](https://resetthenet.org).
 
 This app lets you automatically add Reset The Net modal to your site on June 5, 2014. Reset the Net is a campaign demanding that web services take concrete steps to directly block governments' bulk collection of data, while encouraging the spread of free and open source privacy tools. The banner that your visitors would see encourages them to use [privacy tools and encryption](https://pack.resetthenet.org) to block government surveillance.
 
