@@ -42,16 +42,16 @@ Yes, this app is open-sourced.  You can find the app on Github here: [https://gi
 Yes, we will automatically un-install this app for you by the end of June 2014.
 
 
-### Modal/Popup Screenshots
+### Modal Screenshot / Example
 
-#### Modal
+#### Modal screenshot
 
 ![Modal](/images/apps/resetthenet-cloudflare-app/public/images/modal.png "Modal")
 
-This is the banner that will appear at the bottom of your website when you enable the app.
+This is the modal that will appear in front of your website on June 5th, if you enable the app.
 
-#### Example on a website
+#### Live example on a website
 
-[Website example](https://www.thunderclap.it/#ALWAYS_SHOW_RTN_WIDGET)
+[Website example (goes to an external site)](https://www.thunderclap.it/#ALWAYS_SHOW_RTN_WIDGET)
 
-Here's an example of the banner appearing on a website.
+Here's an example of the banner appearing on www.thunderclap.it.
