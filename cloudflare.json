@@ -28,10 +28,6 @@
         {
             "email": "dkoston@cloudflare.com",
             "name": "Dave Koston"
-        },
-        {
-            "email": "ram@cloudflare.com",
-            "name": "Ramakrishna Nadella"
         }
     ],
     "dependencies": {},
@@ -44,5 +40,5 @@
     ],
     "main": "./public/javascripts/banner.js",
     "name": "Reset The Net",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }

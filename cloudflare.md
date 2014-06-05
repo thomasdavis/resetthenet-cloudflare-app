@@ -46,7 +46,7 @@ Yes, we will automatically un-install this app for you by the end of June 2014.
 
 #### Modal screenshot
 
-![Modal](/images/apps/resetthenet-cloudflare-app/public/images/modal.png "Modal")
+![Modal](/images/apps/reset_the_net/modal.png "Modal")
 
 This is the modal that will appear in front of your website on June 5th, if you enable the app.
 
